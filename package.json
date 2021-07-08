@@ -1,0 +1,25 @@
+{
+  "name": "automationDave",
+  "version": "1.0.0",
+  "description": "This is WebdriverIO automation framework for Dave.com",
+  "main": "wdio.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anita1220/DaveHomeProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anita1220/DaveHomeProject/issues"
+  },
+  "homepage": "https://github.com/Anita1220/DaveHomeProject#readme"
+}

@@ -7,7 +7,8 @@ npm installed
 
 Clone this repo by running:
 
-git clone 
+git clone https://github.com/Anita1220/DaveHomeProject.git
+
 
 
 Run your test from terminal:
